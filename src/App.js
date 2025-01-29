@@ -10,7 +10,10 @@ function App() {
         <h2>Portfolio</h2>
         <p>andrew.harris (at) torontomu.ca</p>
       </header>
+        <Projects />
+
     </div>
+
   );
 }
 
